@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<VBox alignment="CENTER" xmlns="http://javafx.com/javafx/8.0.102" xmlns:fx="http://javafx.com/fxml/1">
+    <Text fx:id="text" strokeType="OUTSIDE" strokeWidth="0.0" text="inserted value has to be positive integer">
+        <font>
+            <Font name="Die Hund  Normal" size="12.0"/>
+        </font>
+    </Text>
+</VBox>
